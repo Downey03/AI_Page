@@ -35,7 +35,7 @@
     grid-template-columns:1fr 1fr;
 }
 
-#elements input:not(input[type="checkbox"]){
+#elements input:not(input[type="checkbox"],input[type="radio"]){
     width:100%;
 }
 
